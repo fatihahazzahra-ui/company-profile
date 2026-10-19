@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme {
+  --color-choco: #5c3a21;   /* Chocolate Brown */
+  --color-cocoa: #3f2a1a;   /* Cokelat gelap (footer) */
+  --color-cream: #fff6ec;   /* Cream Beige */
+  --color-snack: #f97316;   /* Snack Orange */
+  --color-sun: #ffc53d;     /* Kuning ceria */
+}
+
+html {
+  scroll-behavior: smooth;
+}
