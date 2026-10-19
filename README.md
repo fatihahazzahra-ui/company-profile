@@ -1,10 +1,10 @@
 --TihahLicious — Company Profile Website
 Website company profile PT TihahLicious, perusahaan makanan ringan (snack)yang menghadirkan cemilan lezat untuk semua momen — One Bite, Endless Delight!
 
-----Identitas
-Nama	[Nama Lengkap Kamu]
-NIM	    [NIM Kamu]
-Kelas	[Kelas Kamu]
+----Identitas (KEMAKOM UPI)
+Nama	Fatihah Az Zahra El Fahmy
+NIM	    2506459
+Prodi	Pendidikan Ilmu Komputer 3C
 
 ---Deskripsi Website
 Website ini menampilkan profil perusahaan snack TihahLicious yang dibangundengan tampilan ceria dan modern, cocok untuk target pasar anak muda hinggakeluarga. Website terdiri dari 5 halaman:
@@ -22,7 +22,8 @@ Tailwind CSS
 React Router
 
 ---Cara Menjalankan Project
-# 1. Install dependensinpm install# 2. Jalankan server developmentnpm run dev
+# 1. Install dependensi npm install
+# 2. Jalankan server development npm run dev
 Buka http://localhost:5173 di browser.
 
 --Screenshot Halaman
