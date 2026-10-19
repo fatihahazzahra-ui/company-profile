@@ -5,18 +5,18 @@ const products = [
     category: "Sweet Treat",
     emoji: "🍪",
     description:
-      "Camilan berbentuk bola dengan perpaduan biskuit Regal dan cokelat yang menghadirkan rasa manis serta tekstur yang menggugah selera. Cocok untuk teman belajar, bekerja, atau bersantai.",
+      "Cemilan berbentuk bola dengan perpaduan biskuit Regal dan cokelat yang menghadirkan rasa manis serta tekstur yang menggugah selera. Cocok untuk teman belajar, bekerja, atau bersantai.",
     variants: ["Cokelat Original", "Cokelat Crunchy"],
     price: "Rp 15.000 / toples",
   },
   {
     id: 2,
-    name: "Makarani",
+    name: "Makaroni",
     category: "Savory Snack",
     emoji: "🌶️",
     description:
       "Snack makaroni dengan sensasi gurih dan cita rasa berbumbu yang cocok untuk menemani waktu santai. Pilihan tepat bagi pencinta camilan dengan rasa yang lebih berani.",
-    variants: ["Gurih Original", "Pedas Mania"],
+    variants: ["Gurih Original", "Pedas Seuhah"],
     price: "Rp 10.000 / pouch",
   },
   {

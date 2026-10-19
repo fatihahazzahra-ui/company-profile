@@ -11,13 +11,13 @@ function Home() {
       <section className="bg-cream py-20 text-center">
         <div className="mx-auto max-w-3xl px-4">
           <p className="inline-block rounded-full bg-sun/40 px-4 py-1 text-sm font-bold text-choco">
-            🍪 Snack Lokal, Rasa Premium
+            🍪 Snack Lokal, Rasa Mewah
           </p>
           <h1 className="mt-4 text-4xl font-extrabold text-choco sm:text-5xl">
             Teman Ngemil, <span className="text-snack">Teman Bahagia!</span>
           </h1>
           <p className="mt-4 text-lg text-gray-600">
-            Dari manisnya Bola Regal Cokelat, gurihnya Makarano, hingga renyahnya
+            Dari manisnya Bola Regal Cokelat, gurihnya Makaroni, hingga renyahnya
             Popcorn — setiap camilan kami hadir untuk memberikan pengalaman ngemil
             yang menyenangkan.
           </p>
@@ -26,7 +26,7 @@ function Home() {
               to="/products"
               className="rounded-full bg-snack px-6 py-3 font-bold text-white shadow hover:bg-orange-600"
             >
-              Jelajahi Produk 🍿
+              Jelajahi Produk 🍿!
             </Link>
             <Link
               to="/contact"
@@ -100,7 +100,7 @@ function Home() {
       <section className="mx-auto max-w-6xl px-4 pb-16">
         <div className="rounded-3xl bg-choco px-6 py-12 text-center text-cream">
           <h2 className="text-2xl font-extrabold sm:text-3xl">
-            Camilan Kecil, Bahagia Besar 🎉
+            Cemilan Kecil, Bahagia Besar 🎉
           </h2>
           <p className="mt-2 text-amber-100/80">
             Butuh snack untuk acara, hampers, atau stok ngemil harianmu?

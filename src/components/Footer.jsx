@@ -8,7 +8,7 @@ function Footer() {
           <h3 className="text-xl font-extrabold text-white">🍪 TihahLicious</h3>
           <p className="mt-2 text-sm italic">"One Bite, Endless Delight!"</p>
           <p className="mt-2 text-sm text-amber-200/70">
-            Camilan kecil, bahagia besar — untuk semua momen.
+            Cemilan kecil, bahagia besar untuk semua momen.
           </p>
         </div>
         <div>
@@ -24,10 +24,10 @@ function Footer() {
         <div>
           <h4 className="font-bold text-white">Hubungi Kami</h4>
           <ul className="mt-2 space-y-1 text-sm">
-            <li>📧 halo@tihahlicious.com</li>
-            <li>📱 +62 812-3456-7890</li>
+            <li>📧 tihahlicious@gmail.com</li>
+            <li>📱 +62 823-2076-0161</li>
             <li>
-              <a href="https://instagram.com" className="hover:text-sun">📸 @tihahlicious</a>
+              <a href="https://www.instagram.com/tihahlicious.id?utm_source=ig_web_button_share_sheet&cplk=ZDNlZDc0MzIxNw==" className="hover:text-sun">📸 @tihahlicious.id</a>
             </li>
           </ul>
         </div>

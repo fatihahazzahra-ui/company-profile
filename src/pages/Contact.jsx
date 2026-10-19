@@ -35,7 +35,7 @@ function Contact() {
   return (
     <div className="mx-auto max-w-6xl px-4 py-16">
       <h1 className="text-center text-3xl font-extrabold text-choco">
-        Let's Connect with TihahLicious! 🧡
+        Let's Order dan Connect with TihahLicious! 🧡
       </h1>
       <p className="mt-2 text-center text-gray-600">
         Punya pertanyaan tentang produk kami atau tertarik bekerja sama? Kami siap menyambut pesanmu!
@@ -46,15 +46,15 @@ function Contact() {
         <div className="space-y-4">
           <div className="rounded-2xl bg-cream p-5">
             <p className="font-bold text-choco">📧 Email</p>
-            <p className="text-gray-600">halo@tihahlicious.com</p>
+            <p className="text-gray-600">tihahlicious@gmail.com</p>
           </div>
           <div className="rounded-2xl bg-cream p-5">
             <p className="font-bold text-choco">📱 WhatsApp Bisnis</p>
-            <p className="text-gray-600">+62 812-3456-7890</p>
+            <p className="text-gray-600">+62-823-2076-0161</p>
           </div>
           <div className="rounded-2xl bg-cream p-5">
             <p className="font-bold text-choco">📸 Instagram</p>
-            <p className="text-gray-600">@tihahlicious</p>
+            <p className="text-gray-600">@tihahlicious.id</p>
           </div>
           <p className="pt-2 text-sm italic text-gray-500">
             Good snacks, good mood, good moments. ✨

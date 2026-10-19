@@ -8,7 +8,7 @@ const advantages = [
   {
     id: 2,
     title: "Pilihan Rasa Beragam",
-    description: "Tersedia pilihan camilan manis dan gurih untuk berbagai selera.",
+    description: "Tersedia pilihan cemilan manis dan gurih untuk berbagai selera.",
     emoji: "😋",
   },
   {
