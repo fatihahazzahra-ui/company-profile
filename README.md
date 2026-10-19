@@ -1,16 +1,43 @@
-# React + Vite
+--TihahLicious — Company Profile Website
+Website company profile PT TihahLicious, perusahaan makanan ringan (snack)yang menghadirkan cemilan lezat untuk semua momen — One Bite, Endless Delight!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+----Identitas
+Nama	[Nama Lengkap Kamu]
+NIM	    [NIM Kamu]
+Kelas	[Kelas Kamu]
 
-Currently, two official plugins are available:
+---Deskripsi Website
+Website ini menampilkan profil perusahaan snack TihahLicious yang dibangundengan tampilan ceria dan modern, cocok untuk target pasar anak muda hinggakeluarga. Website terdiri dari 5 halaman:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Beranda — hero section, ringkasan perusahaan, produk unggulan, keunggulan, dan testimoni pelanggan
+Tentang Kami — sejarah perusahaan, visi & misi, serta profil tim
+Produk — katalog camilan (Bola Regal Cokelat, Makarano, Popcorn) lengkap dengan varian dan harga
+Galeri — dokumentasi kegiatan dan momen perusahaan
+Kontak — form kontak dengan validasi, info alamat & media sosial, serta FAQ
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---Teknologi
+React + Vite
+Tailwind CSS
+React Router
 
-## Expanding the ESLint configuration
+---Cara Menjalankan Project
+# 1. Install dependensinpm install# 2. Jalankan server developmentnpm run dev
+Buka http://localhost:5173 di browser.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+--Screenshot Halaman
+1. Beranda (Home)
+screenshots/beranda.jpg
+screenshots/beranda1.jpg
+
+2. Tentang Kami (About)
+screenshots/tentang.jpg
+
+3. Produk (Products)
+screenshots/produk.jpg
+
+4. Galeri (Gallery)
+screenshots/galeri.jpg
+
+5. Kontak (Contact)
+screenshots/lets.jpg
